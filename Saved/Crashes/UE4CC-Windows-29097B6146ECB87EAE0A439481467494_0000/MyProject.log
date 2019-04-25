@@ -1,0 +1,841 @@
+﻿Log file open, 04/20/19 04:58:42
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: MyProject
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-2030480725) SRandInit(-2030480725).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.167387
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line: -EpicPortal  -epicusername="Coord26673" -epicuserid=d0b6036c88c54b6d9c24e2e300c84322 -epiclocale=en-GB
+LogInit: Base directory: G:/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2019.04.20-03.58.43:897][  0]LogInit: Selected Device Profile: [Windows]
+[2019.04.20-03.58.43:898][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.04.20-03.58.43:906][  0]LogInit: Computer: DESKTOP-6R2LPT6
+[2019.04.20-03.58.43:906][  0]LogInit: User: Coord26
+[2019.04.20-03.58.43:906][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.04.20-03.58.43:906][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.04.20-03.58.43:906][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.04.20-03.58.43:906][  0]LogMemory: Platform Memory Stats for Windows
+[2019.04.20-03.58.43:906][  0]LogMemory: Process Physical Memory: 272.66 MB used, 272.67 MB peak
+[2019.04.20-03.58.43:906][  0]LogMemory: Process Virtual Memory: 271.00 MB used, 271.00 MB peak
+[2019.04.20-03.58.43:906][  0]LogMemory: Physical Memory: 9889.91 MB used,  6436.16 MB free, 16326.06 MB total
+[2019.04.20-03.58.43:906][  0]LogMemory: Virtual Memory: 4769.37 MB used,  6436.16 MB free, 134217728.00 MB total
+[2019.04.20-03.58.44:014][  0]LogInit: Using OS detected language (en-GB).
+[2019.04.20-03.58.44:014][  0]LogInit: Using OS detected locale (en-GB).
+[2019.04.20-03.58.44:016][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2019.04.20-03.58.44:304][  0]LogInit: Setting process to per monitor DPI aware
+[2019.04.20-03.58.44:525][  0]LogD3D11RHI: D3D11 adapters:
+[2019.04.20-03.58.44:580][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2019.04.20-03.58.44:580][  0]LogD3D11RHI:       8079/0/8163 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.04.20-03.58.44:582][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.04.20-03.58.44:582][  0]LogD3D11RHI:       0/0/8163 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.04.20-03.58.44:582][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.04.20-03.58.44:592][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.04.20-03.58.44:592][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
+[2019.04.20-03.58.44:592][  0]LogWindows: EnumDisplayDevices:
+[2019.04.20-03.58.44:592][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:0 D:1)
+[2019.04.20-03.58.44:592][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2019.04.20-03.58.44:592][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2019.04.20-03.58.44:592][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2019.04.20-03.58.44:592][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2019.04.20-03.58.44:593][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2019.04.20-03.58.44:593][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2019.04.20-03.58.44:593][  0]LogD3D11RHI:      Driver Date: Unknown
+[2019.04.20-03.58.44:593][  0]LogRHI: Texture pool is 5655 MB (70% of 8079 MB)
+[2019.04.20-03.58.44:626][  0]LogD3D11RHI: Async texture creation enabled
+[2019.04.20-03.58.44:645][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.04.20-03.58.44:695][  0]LogShaderCompilers: Guid format shader working directory is -5 characters bigger than the processId version (C:/Users/Coord 26/Documents/Unreal Projects/MyProject/Intermediate/Shaders/WorkingDirectory/21984/).
+[2019.04.20-03.58.44:695][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Coord 26/AppData/Local/Temp/UnrealShaderWorkingDir/E3D1552E45A37460BB3445BE355119A7/'.
+[2019.04.20-03.58.44:695][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.04.20-03.58.45:583][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.04.20-03.58.45:621][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.04.20-03.58.45:659][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.04.20-03.58.45:698][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.04.20-03.58.45:743][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.04.20-03.58.45:782][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.04.20-03.58.45:820][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.04.20-03.58.45:859][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.04.20-03.58.45:892][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.04.20-03.58.45:930][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2019.04.20-03.58.45:969][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2019.04.20-03.58.46:007][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2019.04.20-03.58.46:044][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2019.04.20-03.58.46:081][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2019.04.20-03.58.46:160][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2019.04.20-03.58.46:160][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2019.04.20-03.58.46:198][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.20-03.58.46:229][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.04.20-03.58.46:301][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.04.20-03.58.46:321][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.04.20-03.58.46:366][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.04.20-03.58.46:407][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.04.20-03.58.46:444][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.04.20-03.58.46:482][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.04.20-03.58.46:482][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.04.20-03.58.46:818][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.04.20-03.58.46:875][  0]LogDerivedDataCache: Loaded boot cache 0.06s 78MB C:/Users/Coord 26/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2019.04.20-03.58.46:875][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Coord 26/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2019.04.20-03.58.46:875][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/Coord 26/Documents/Unreal Projects/MyProject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.04.20-03.58.46:876][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.04.20-03.58.46:876][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/Coord 26/Documents/Unreal Projects/MyProject/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.04.20-03.58.46:876][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.04.20-03.58.46:887][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.04.20-03.58.46:899][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Coord 26/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.04.20-03.58.46:906][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.04.20-03.58.46:906][  0]LogSlate: Using Freetype 2.6.0
+[2019.04.20-03.58.46:907][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.04.20-03.58.46:907][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.04.20-03.58.47:184][  0]LogInit: Selected Device Profile: [Windows]
+[2019.04.20-03.58.47:423][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.04.20-03.58.47:452][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.04.20-03.58.47:453][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.04.20-03.58.47:453][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.04.20-03.58.47:453][  0]LogMeshReduction: No automatic mesh merging module available
+[2019.04.20-03.58.47:453][  0]LogMeshMerging: No automatic mesh merging module available
+[2019.04.20-03.58.47:477][  0]LogNetVersion: MyProject , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1490074681)
+[2019.04.20-03.58.47:604][  0]LogAssetRegistry: FAssetRegistry took 0.0250 seconds to start up
+[2019.04.20-03.58.48:002][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.052178 seconds
+[2019.04.20-03.58.48:006][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2019.04.20-03.58.48:006][  0]LogUObjectAllocator: 7363696 out of 0 bytes used by permanent object pool.
+[2019.04.20-03.58.48:006][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.04.20-03.58.48:060][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2019.04.20-03.58.50:151][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.04.20-03.58.50:186][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.04.20-03.58.50:736][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2019.04.20-03.58.51:055][  0]SourceControl: Source control is disabled
+[2019.04.20-03.58.51:055][  0]SourceControl: Source control is disabled
+[2019.04.20-03.58.51:096][  0]SourceControl: Source control is disabled
+[2019.04.20-03.58.51:135][  0]SourceControl: Source control is disabled
+[2019.04.20-03.58.51:770][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.04.20-03.58.51:974][  0]LogOcInput: OculusInput pre-init called
+[2019.04.20-03.58.52:202][  0]LogEngine: Initializing Engine...
+[2019.04.20-03.58.52:204][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.04.20-03.58.52:343][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.04.20-03.58.52:343][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.04.20-03.58.52:437][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.04.20-03.58.52:459][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.20-03.58.52:510][  0]LogInit: FAudioDevice initialized.
+[2019.04.20-03.58.52:552][  0]LogDerivedDataCache: Saved boot cache 0.04s 78MB C:/Users/Coord 26/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2019.04.20-03.58.52:561][  0]LogInit: Texture streaming: Enabled
+[2019.04.20-03.58.52:633][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.04.20-03.58.52:780][  0]LogInit: Transaction tracking system initialized
+[2019.04.20-03.58.53:016][  0]BlueprintLog: New page: Editor Load
+[2019.04.20-03.58.53:668][  0]LocalizationService: Localization service is disabled
+[2019.04.20-03.58.54:233][  0]LogConsoleResponse: Display: 
+[2019.04.20-03.58.54:376][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Coord 26/Documents/Unreal Projects/MyProject/Content/' took 0.02s
+[2019.04.20-03.58.54:376][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.04.20-03.58.54:376][  0]LogCook: Display: Mobile HDR setting 1
+[2019.04.20-03.58.54:376][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.04.20-03.58.55:312][  0]SourceControl: Source control is disabled
+[2019.04.20-03.58.55:312][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.04.20-03.58.55:312][  0]LightingResults: New page: Lighting Build
+[2019.04.20-03.58.55:345][  0]MapCheck: New page: Map Check
+[2019.04.20-03.58.55:345][  0]LightingResults: New page: Lighting Build
+[2019.04.20-03.58.55:503][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2019.04.20-03.58.55:507][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.04.20-03.58.55:514][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.04.20-03.58.55:550][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 35.338ms to complete.
+[2019.04.20-03.58.55:550][  0]LogFileHelpers: Loading map 'Template_Default' took 0.237
+[2019.04.20-03.58.56:619][  0]LogCollectionManager: Loaded 0 collections in 0.001375 seconds
+[2019.04.20-03.58.56:819][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Coord 26/Documents/Unreal Projects/MyProject/Saved/Collections/' took 0.01s
+[2019.04.20-03.58.56:819][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Coord 26/Documents/Unreal Projects/MyProject/Content/Developers/Coord26/Collections/' took 0.01s
+[2019.04.20-03.58.56:819][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Coord 26/Documents/Unreal Projects/MyProject/Content/Collections/' took 0.01s
+[2019.04.20-03.58.56:819][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.04.20-03.58.56:827][  0]LogContentBrowser: Native class hierarchy populated in 0.0066 seconds. Added 2363 classes and 519 folders.
+[2019.04.20-03.58.57:028][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.04.20-03.58.58:249][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.04.20-03.58.58:373][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2019.04.20-03.58.59:448][  0]LogSlate: Took 0.000224 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.04.20-03.58.59:450][  0]LogSlate: Took 0.000186 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.04.20-03.58.59:557][  0]LogSlate: Took 0.007730 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.04.20-03.59.00:243][  0]LogRenderer: Reallocating scene render targets to support 1616x808 Format 10 NumSamples 1 (Frame:1).
+[2019.04.20-03.59.00:856][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2019.04.20-03.59.00:856][  0]LogLoad: (Engine Initialization) Total time: 19.26 seconds
+[2019.04.20-03.59.00:856][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.04.20-03.59.00:856][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2019.04.20-03.59.00:913][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.04.20-03.59.01:012][  1]LogAssetRegistry: Asset discovery search completed in 13.4304 seconds
+[2019.04.20-03.59.01:014][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.04.20-03.59.01:014][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000050 seconds (updated 0 objects)
+[2019.04.20-03.59.54:140][156]LogSlate: Took 0.019289 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2019.04.20-04.00.05:839][300]LogSlate: Took 0.000139 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.04.20-04.00.06:120][300]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 116 classes and 0 folders.
+[2019.04.20-04.00.18:969][446]LogActorFactory: Actor Factory created R_Track
+[2019.04.20-04.00.19:017][446]LogActorFactory: Actor Factory created BaseTank_Barrel
+[2019.04.20-04.00.19:019][446]LogActorFactory: Actor Factory created BaseTank_Body
+[2019.04.20-04.00.19:020][446]LogActorFactory: Actor Factory created BaseTank_Turret
+[2019.04.20-04.00.19:021][446]LogActorFactory: Actor Factory created L_Track
+[2019.04.20-04.00.26:548][239]LogSlate: Took 0.293529 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.04.20-04.00.58:894][871]LogSlate: Took 0.469983 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.04.20-04.03.46:628][ 55]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Prototank2" FILE="C:/Users/Coord 26/Documents/Unreal Projects/MyProject/Content/Prototank2.uasset" SILENT=true
+[2019.04.20-04.03.46:749][ 55]LogSavePackage: Save=82.93ms
+[2019.04.20-04.03.46:749][ 55]LogSavePackage: Moving 'C:/Users/Coord 26/Documents/Unreal Projects/MyProject/Saved/Prototank25F1EB818403D351AF1D5D2B5AC81E410.tmp' to 'C:/Users/Coord 26/Documents/Unreal Projects/MyProject/Content/Prototank2.uasset'
+[2019.04.20-04.03.46:752][ 55]LogSavePackage: Display: Finished SavePackage C:/Users/Coord 26/Documents/Unreal Projects/MyProject/Content/Prototank2.uasset
+[2019.04.20-04.03.51:042][560]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.04.20-04.04.03:134][974]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.04.20-04.04.03:590][ 16]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.04.20-04.04.22:869][220]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ProtoGamemode" FILE="C:/Users/Coord 26/Documents/Unreal Projects/MyProject/Content/ProtoGamemode.uasset" SILENT=true
+[2019.04.20-04.04.22:885][220]LogSavePackage: Save=8.67ms
+[2019.04.20-04.04.22:885][220]LogSavePackage: Moving 'C:/Users/Coord 26/Documents/Unreal Projects/MyProject/Saved/ProtoGamemodeCCAD7B254D333D7096FC00A717DB06BA.tmp' to 'C:/Users/Coord 26/Documents/Unreal Projects/MyProject/Content/ProtoGamemode.uasset'
+[2019.04.20-04.04.22:886][220]LogSavePackage: Display: Finished SavePackage C:/Users/Coord 26/Documents/Unreal Projects/MyProject/Content/ProtoGamemode.uasset
+[2019.04.20-04.04.49:381][827]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.04.20-04.09.02:811][888]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Prototank2" FILE="C:/Users/Coord 26/Documents/Unreal Projects/MyProject/Content/Prototank2.uasset" SILENT=true
+[2019.04.20-04.09.02:836][888]LogSavePackage: Save=16.10ms
+[2019.04.20-04.09.02:836][888]LogSavePackage: Moving 'C:/Users/Coord 26/Documents/Unreal Projects/MyProject/Saved/Prototank289A242FA4819C6557007B69861B273A5.tmp' to 'C:/Users/Coord 26/Documents/Unreal Projects/MyProject/Content/Prototank2.uasset'
+[2019.04.20-04.09.02:838][888]LogSavePackage: Display: Finished SavePackage C:/Users/Coord 26/Documents/Unreal Projects/MyProject/Content/Prototank2.uasset
+[2019.04.20-04.09.06:204][277]LogEditorViewport: Clicking on Actor (LMB): Prototank2_C (Prototank2)
+[2019.04.20-04.09.10:488][711]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.04.20-04.09.23:872][308]LogEditorViewport: Clicking on Actor (LMB): Prototank2_C (Prototank2)
+[2019.04.20-04.09.30:368][ 80]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.04.20-04.09.57:154][282]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.04.20-04.10.41:852][855]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.MyProject
+[2019.04.20-04.10.41:852][855]LogTemp: CWD: G:\UE_4.18\Engine\Binaries\DotNET\IOS
+[2019.04.20-04.10.41:852][855]LogTemp: Initial Dir: G:\UE_4.18
+[2019.04.20-04.10.41:852][855]LogTemp: Env CWD: G:\UE_4.18\Engine\Binaries\DotNET\IOS
+[2019.04.20-04.10.41:852][855]LogTemp: BranchPath = DESKTOP-6R2LPT6/G/UE_4.18/Engine/Binaries --- GameBranchPath = DESKTOP-6R2LPT6/G/UE_4.18/Engine/Binaries
+[2019.04.20-04.10.41:852][855]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\Coord 26\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2019.04.20-04.10.41:852][855]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.04.20-04.11.04:574][352]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.04.20-04.11.05:321][422]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.20-04.11.05:398][422]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.04.20-04.11.05:433][422]LogPlayLevel: [PlayLevel] Compiling Demotank before play...
+[2019.04.20-04.11.05:949][422]LogPlayLevel: [PlayLevel] Compiling Prototank2 before play...
+[2019.04.20-04.11.06:172][422]LogPlayLevel: PlayLevel: Blueprint regeneration took 775 ms (2 blueprints)
+[2019.04.20-04.11.06:318][422]PIE: New page: PIE session: Untitled_1 (20 Apr 2019 06:11:06)
+[2019.04.20-04.11.06:334][422]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2019.04.20-04.11.06:356][422]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022461s)
+[2019.04.20-04.11.06:357][422]LogAIModule: Creating AISystem for world Untitled_1
+[2019.04.20-04.11.06:363][422]LogPlayLevel: PIE: World Init took: (0.006551s)
+[2019.04.20-04.11.06:373][422]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.039184s)
+[2019.04.20-04.11.06:428][422]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.20-04.11.06:471][422]LogInit: FAudioDevice initialized.
+[2019.04.20-04.11.06:552][422]LogLoad: Game class is 'ProtoGamemode_C'
+[2019.04.20-04.11.06:743][422]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2019.04.20-05.11.06
+[2019.04.20-04.11.06:793][422]LogWorld: Bringing up level for play took: 0.089478
+[2019.04.20-04.11.07:011][422]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0002 seconds. Added 11 classes and 0 folders.
+[2019.04.20-04.11.07:023][422]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 1.908
+[2019.04.20-04.11.21:504][ 18]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.04.20-04.11.21:990][ 70]EditorErrors: New page: Socket Clicked
+[2019.04.20-04.11.21:990][ 70]EditorErrors: Error: Cannot attach static actor Floor to dynamic actor Prototank2.
+[2019.04.20-04.11.22:586][138]EditorErrors: New page: Socket Clicked
+[2019.04.20-04.11.22:586][138]EditorErrors: Error: Cannot attach static actor Floor to dynamic actor Prototank2.
+[2019.04.20-04.11.23:983][304]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2019.04.20-04.11.24:270][309]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.04.20-04.11.25:109][402]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.04.20-04.11.27:055][632]EditorErrors: New page: Socket Clicked
+[2019.04.20-04.11.27:055][632]EditorErrors: Error: Cannot attach static actor Sky Sphere to dynamic actor Prototank2.
+[2019.04.20-04.11.30:542][ 41]Cmd: SELECT NONE
+[2019.04.20-04.11.31:084][ 44]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.04.20-04.11.31:664][ 97]Cmd: SELECT NONE
+[2019.04.20-04.11.32:692][220]EditorErrors: New page: Socket Clicked
+[2019.04.20-04.11.33:280][290]EditorErrors: New page: Socket Clicked
+[2019.04.20-04.11.33:767][348]EditorErrors: New page: Socket Clicked
+[2019.04.20-04.11.36:886][711]EditorErrors: New page: Socket Clicked
+[2019.04.20-04.11.37:265][753]EditorErrors: New page: Socket Clicked
+[2019.04.20-04.11.37:568][789]EditorErrors: New page: Socket Clicked
+[2019.04.20-04.11.43:575][435]LogEditorActor: Deleted Actor: Prototank2_C
+[2019.04.20-04.11.43:604][435]LogEditorActor: Deleted 1 Actors (0.102 secs)
+[2019.04.20-04.11.44:605][546]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.04.20-04.11.45:593][661]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.20-04.11.45:603][661]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.20-04.11.45:603][661]PIE: New page: PIE session: Untitled_1 (20 Apr 2019 06:11:45)
+[2019.04.20-04.11.45:603][661]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2019.04.20-04.11.45:606][661]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003000s)
+[2019.04.20-04.11.45:606][661]LogAIModule: Creating AISystem for world Untitled_1
+[2019.04.20-04.11.45:606][661]LogPlayLevel: PIE: World Init took: (0.000450s)
+[2019.04.20-04.11.45:606][661]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.003622s)
+[2019.04.20-04.11.45:633][661]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.20-04.11.45:673][661]LogInit: FAudioDevice initialized.
+[2019.04.20-04.11.45:706][661]LogLoad: Game class is 'ProtoGamemode_C'
+[2019.04.20-04.11.45:707][661]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2019.04.20-05.11.45
+[2019.04.20-04.11.45:707][661]LogWorld: Bringing up level for play took: 0.000506
+[2019.04.20-04.11.45:708][661]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 0.594
+[2019.04.20-04.11.54:962][613]Cmd: SELECT NONE
+[2019.04.20-04.12.16:457][ 31]LogSlate: Took 0.000369 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2019.04.20-04.12.25:019][984]Cmd: OBJ SAVEPACKAGE PACKAGE="/Temp/Untitled_1" FILE="C:/Users/Coord 26/Documents/Unreal Projects/MyProject/Saved/Autosaves/Temp/Untitled_1_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.04.20-04.12.25:060][984]LogSavePackage: Save=39.73ms
+[2019.04.20-04.12.25:060][984]LogSavePackage: Moving 'C:/Users/Coord 26/Documents/Unreal Projects/MyProject/Saved/Untitled_1_Auto1B00177CB479A0DEC6129BAA3E7148543.tmp' to 'C:/Users/Coord 26/Documents/Unreal Projects/MyProject/Saved/Autosaves/Temp/Untitled_1_Auto1.umap'
+[2019.04.20-04.12.25:061][984]LogSavePackage: Display: Finished SavePackage C:/Users/Coord 26/Documents/Unreal Projects/MyProject/Saved/Autosaves/Temp/Untitled_1_Auto1.umap
+[2019.04.20-04.12.25:063][984]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.619
+[2019.04.20-04.12.25:063][984]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.619
+[2019.04.20-04.12.25:064][984]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Demotank] ([1] browsable assets)...
+[2019.04.20-04.12.25:073][984]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Demotank.Demotank]
+[2019.04.20-04.12.25:073][984]OBJ SavePackage: Finished generating thumbnails for package [/Game/Demotank]
+[2019.04.20-04.12.25:073][984]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Demotank" FILE="C:/Users/Coord 26/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/Demotank_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2019.04.20-04.12.25:091][984]LogSavePackage: Save=16.54ms
+[2019.04.20-04.12.25:091][984]LogSavePackage: Moving 'C:/Users/Coord 26/Documents/Unreal Projects/MyProject/Saved/Demotank_Auto1C66FAB7646AD3C45E643938C4703252B.tmp' to 'C:/Users/Coord 26/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/Demotank_Auto1.uasset'
+[2019.04.20-04.12.25:092][984]LogSavePackage: Display: Finished SavePackage C:/Users/Coord 26/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/Demotank_Auto1.uasset
+[2019.04.20-04.12.25:092][984]LogFileHelpers: Auto-saving content packages took 0.029
+[2019.04.20-04.14.12:768][543]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'AActor::K2_AddActorLocalOffset' [Element not found.]
+[2019.04.20-04.14.27:860][348]BlueprintLog: New page: Compile Prototank2
+[2019.04.20-04.14.29:990][490]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Prototank2" FILE="C:/Users/Coord 26/Documents/Unreal Projects/MyProject/Content/Prototank2.uasset" SILENT=true
+[2019.04.20-04.14.30:017][490]LogSavePackage: Save=18.70ms
+[2019.04.20-04.14.30:017][490]LogSavePackage: Moving 'C:/Users/Coord 26/Documents/Unreal Projects/MyProject/Saved/Prototank21BDEA8974DCAED1E421757AAABA83280.tmp' to 'C:/Users/Coord 26/Documents/Unreal Projects/MyProject/Content/Prototank2.uasset'
+[2019.04.20-04.14.30:019][490]LogSavePackage: Display: Finished SavePackage C:/Users/Coord 26/Documents/Unreal Projects/MyProject/Content/Prototank2.uasset
+[2019.04.20-04.14.32:539][786]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.20-04.14.32:550][786]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.20-04.14.32:550][786]PIE: New page: PIE session: Untitled_1 (20 Apr 2019 06:14:32)
+[2019.04.20-04.14.32:550][786]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2019.04.20-04.14.32:554][786]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003490s)
+[2019.04.20-04.14.32:554][786]LogAIModule: Creating AISystem for world Untitled_1
+[2019.04.20-04.14.32:554][786]LogPlayLevel: PIE: World Init took: (0.000451s)
+[2019.04.20-04.14.32:554][786]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.004126s)
+[2019.04.20-04.14.32:581][786]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.20-04.14.32:622][786]LogInit: FAudioDevice initialized.
+[2019.04.20-04.14.32:655][786]LogLoad: Game class is 'ProtoGamemode_C'
+[2019.04.20-04.14.32:655][786]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2019.04.20-05.14.32
+[2019.04.20-04.14.32:656][786]LogWorld: Bringing up level for play took: 0.000454
+[2019.04.20-04.14.32:662][786]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 -0.452
+[2019.04.20-04.15.23:219][653]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Prototank2" FILE="C:/Users/Coord 26/Documents/Unreal Projects/MyProject/Content/Prototank2.uasset" SILENT=true
+[2019.04.20-04.15.23:244][653]LogSavePackage: Save=18.88ms
+[2019.04.20-04.15.23:244][653]LogSavePackage: Moving 'C:/Users/Coord 26/Documents/Unreal Projects/MyProject/Saved/Prototank21ED42A4D4F575A164F4943966F68E4D7.tmp' to 'C:/Users/Coord 26/Documents/Unreal Projects/MyProject/Content/Prototank2.uasset'
+[2019.04.20-04.15.23:247][653]LogSavePackage: Display: Finished SavePackage C:/Users/Coord 26/Documents/Unreal Projects/MyProject/Content/Prototank2.uasset
+[2019.04.20-04.15.26:624][984]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.04.20-04.15.27:493][ 71]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.20-04.15.27:503][ 71]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.04.20-04.15.27:504][ 71]LogPlayLevel: [PlayLevel] Compiling Prototank2 before play...
+[2019.04.20-04.15.27:630][ 71]LogPlayLevel: PlayLevel: Blueprint regeneration took 126 ms (1 blueprints)
+[2019.04.20-04.15.27:630][ 71]PIE: New page: PIE session: Untitled_1 (20 Apr 2019 06:15:27)
+[2019.04.20-04.15.27:630][ 71]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2019.04.20-04.15.27:633][ 71]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003341s)
+[2019.04.20-04.15.27:633][ 71]LogAIModule: Creating AISystem for world Untitled_1
+[2019.04.20-04.15.27:634][ 71]LogPlayLevel: PIE: World Init took: (0.000460s)
+[2019.04.20-04.15.27:634][ 71]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.003977s)
+[2019.04.20-04.15.27:658][ 71]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.20-04.15.27:701][ 71]LogInit: FAudioDevice initialized.
+[2019.04.20-04.15.27:734][ 71]LogLoad: Game class is 'ProtoGamemode_C'
+[2019.04.20-04.15.27:735][ 71]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2019.04.20-05.15.27
+[2019.04.20-04.15.27:735][ 71]LogWorld: Bringing up level for play took: 0.000427
+[2019.04.20-04.15.27:736][ 71]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 0.622
+[2019.04.20-04.15.48:144][420]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.04.20-04.15.48:220][425]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.MyProject
+[2019.04.20-04.15.48:220][425]LogTemp: CWD: G:\UE_4.18\Engine\Binaries\DotNET\IOS
+[2019.04.20-04.15.48:220][425]LogTemp: Initial Dir: G:\UE_4.18
+[2019.04.20-04.15.48:220][425]LogTemp: Env CWD: G:\UE_4.18\Engine\Binaries\DotNET\IOS
+[2019.04.20-04.15.48:231][426]LogTemp: BranchPath = DESKTOP-6R2LPT6/G/UE_4.18/Engine/Binaries --- GameBranchPath = DESKTOP-6R2LPT6/G/UE_4.18/Engine/Binaries
+[2019.04.20-04.15.48:238][427]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\Coord 26\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2019.04.20-04.17.25:436][738]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Prototank2" FILE="C:/Users/Coord 26/Documents/Unreal Projects/MyProject/Content/Prototank2.uasset" SILENT=true
+[2019.04.20-04.17.25:464][738]LogSavePackage: Save=21.72ms
+[2019.04.20-04.17.25:464][738]LogSavePackage: Moving 'C:/Users/Coord 26/Documents/Unreal Projects/MyProject/Saved/Prototank208BDB2FB47568D8AFB5D9A9132BF87BB.tmp' to 'C:/Users/Coord 26/Documents/Unreal Projects/MyProject/Content/Prototank2.uasset'
+[2019.04.20-04.17.25:466][738]LogSavePackage: Display: Finished SavePackage C:/Users/Coord 26/Documents/Unreal Projects/MyProject/Content/Prototank2.uasset
+[2019.04.20-04.17.31:357][444]BlueprintLog: New page: Compile Prototank2
+[2019.04.20-04.17.35:205][876]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.20-04.17.35:216][876]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.20-04.17.35:216][876]PIE: New page: PIE session: Untitled_1 (20 Apr 2019 06:17:35)
+[2019.04.20-04.17.35:216][876]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2019.04.20-04.17.35:219][876]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003280s)
+[2019.04.20-04.17.35:220][876]LogAIModule: Creating AISystem for world Untitled_1
+[2019.04.20-04.17.35:220][876]LogPlayLevel: PIE: World Init took: (0.000444s)
+[2019.04.20-04.17.35:220][876]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.003897s)
+[2019.04.20-04.17.35:246][876]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.20-04.17.35:288][876]LogInit: FAudioDevice initialized.
+[2019.04.20-04.17.35:316][876]LogLoad: Game class is 'ProtoGamemode_C'
+[2019.04.20-04.17.35:316][876]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2019.04.20-05.17.35
+[2019.04.20-04.17.35:317][876]LogWorld: Bringing up level for play took: 0.000418
+[2019.04.20-04.17.35:318][876]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 0.204
+[2019.04.20-04.19.04:878][329]BlueprintLog: New page: Compile Prototank2
+[2019.04.20-04.19.06:631][514]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Prototank2" FILE="C:/Users/Coord 26/Documents/Unreal Projects/MyProject/Content/Prototank2.uasset" SILENT=true
+[2019.04.20-04.19.06:659][514]LogSavePackage: Save=22.96ms
+[2019.04.20-04.19.06:659][514]LogSavePackage: Moving 'C:/Users/Coord 26/Documents/Unreal Projects/MyProject/Saved/Prototank220C0B3234DCB554C0F1D8BAA74C4A194.tmp' to 'C:/Users/Coord 26/Documents/Unreal Projects/MyProject/Content/Prototank2.uasset'
+[2019.04.20-04.19.06:662][514]LogSavePackage: Display: Finished SavePackage C:/Users/Coord 26/Documents/Unreal Projects/MyProject/Content/Prototank2.uasset
+[2019.04.20-04.19.11:487][ 86]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.20-04.19.11:497][ 86]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.20-04.19.11:497][ 86]PIE: New page: PIE session: Untitled_1 (20 Apr 2019 06:19:11)
+[2019.04.20-04.19.11:497][ 86]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2019.04.20-04.19.11:500][ 86]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003197s)
+[2019.04.20-04.19.11:500][ 86]LogAIModule: Creating AISystem for world Untitled_1
+[2019.04.20-04.19.11:500][ 86]LogPlayLevel: PIE: World Init took: (0.000458s)
+[2019.04.20-04.19.11:501][ 86]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.003841s)
+[2019.04.20-04.19.11:527][ 86]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.20-04.19.11:569][ 86]LogInit: FAudioDevice initialized.
+[2019.04.20-04.19.11:598][ 86]LogLoad: Game class is 'ProtoGamemode_C'
+[2019.04.20-04.19.11:598][ 86]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2019.04.20-05.19.11
+[2019.04.20-04.19.11:599][ 86]LogWorld: Bringing up level for play took: 0.000406
+[2019.04.20-04.19.11:600][ 86]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 0.485
+[2019.04.20-04.19.39:275][245]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.04.20-04.19.40:112][340]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.04.20-04.19.40:959][438]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.04.20-04.21.40:110][271]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Prototank2" FILE="C:/Users/Coord 26/Documents/Unreal Projects/MyProject/Content/Prototank2.uasset" SILENT=true
+[2019.04.20-04.21.40:143][271]LogSavePackage: Save=26.48ms
+[2019.04.20-04.21.40:143][271]LogSavePackage: Moving 'C:/Users/Coord 26/Documents/Unreal Projects/MyProject/Saved/Prototank2B6E5BA1A4961BEFF9980E7908908E796.tmp' to 'C:/Users/Coord 26/Documents/Unreal Projects/MyProject/Content/Prototank2.uasset'
+[2019.04.20-04.21.40:145][271]LogSavePackage: Display: Finished SavePackage C:/Users/Coord 26/Documents/Unreal Projects/MyProject/Content/Prototank2.uasset
+[2019.04.20-04.22.04:162][ 97]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Prototank2" FILE="C:/Users/Coord 26/Documents/Unreal Projects/MyProject/Content/Prototank2.uasset" SILENT=true
+[2019.04.20-04.22.04:193][ 97]LogSavePackage: Save=26.37ms
+[2019.04.20-04.22.04:193][ 97]LogSavePackage: Moving 'C:/Users/Coord 26/Documents/Unreal Projects/MyProject/Saved/Prototank26350E00C49A3B528F99B6584ED78F71D.tmp' to 'C:/Users/Coord 26/Documents/Unreal Projects/MyProject/Content/Prototank2.uasset'
+[2019.04.20-04.22.04:196][ 97]LogSavePackage: Display: Finished SavePackage C:/Users/Coord 26/Documents/Unreal Projects/MyProject/Content/Prototank2.uasset
+[2019.04.20-04.22.05:588][261]BlueprintLog: New page: Compile Prototank2
+[2019.04.20-04.22.06:473][262]LogPropertyNode: Warning: Clamp Min (3) >= Clamp Max (3) for Ranged Numeric property /Game/Prototank2.Prototank2_C:Turnrate
+[2019.04.20-04.22.06:473][262]LogPropertyNode: Warning: UI Min (3) >= UI Max (3) for Ranged Numeric property /Game/Prototank2.Prototank2_C:Turnrate
+[2019.04.20-04.22.10:759][754]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.04.20-04.22.11:410][827]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.04.20-04.22.12:592][965]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.20-04.22.12:602][965]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.20-04.22.12:602][965]PIE: New page: PIE session: Untitled_1 (20 Apr 2019 06:22:12)
+[2019.04.20-04.22.12:602][965]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2019.04.20-04.22.12:605][965]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003160s)
+[2019.04.20-04.22.12:606][965]LogAIModule: Creating AISystem for world Untitled_1
+[2019.04.20-04.22.12:606][965]LogPlayLevel: PIE: World Init took: (0.000454s)
+[2019.04.20-04.22.12:606][965]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.003789s)
+[2019.04.20-04.22.12:632][965]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.20-04.22.12:675][965]LogInit: FAudioDevice initialized.
+[2019.04.20-04.22.12:706][965]LogLoad: Game class is 'ProtoGamemode_C'
+[2019.04.20-04.22.12:706][965]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2019.04.20-05.22.12
+[2019.04.20-04.22.12:707][965]LogWorld: Bringing up level for play took: 0.000424
+[2019.04.20-04.22.12:708][965]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 -0.407
+[2019.04.20-04.22.18:314][599]LogPropertyNode: Warning: Clamp Min (3) >= Clamp Max (3) for Ranged Numeric property /Game/Prototank2.Prototank2_C:Turnrate
+[2019.04.20-04.22.18:314][599]LogPropertyNode: Warning: UI Min (3) >= UI Max (3) for Ranged Numeric property /Game/Prototank2.Prototank2_C:Turnrate
+[2019.04.20-04.22.26:995][630]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Prototank2" FILE="C:/Users/Coord 26/Documents/Unreal Projects/MyProject/Content/Prototank2.uasset" SILENT=true
+[2019.04.20-04.22.27:027][630]LogSavePackage: Save=26.31ms
+[2019.04.20-04.22.27:027][630]LogSavePackage: Moving 'C:/Users/Coord 26/Documents/Unreal Projects/MyProject/Saved/Prototank2D82157134AB5CA54787AFDBA156E3903.tmp' to 'C:/Users/Coord 26/Documents/Unreal Projects/MyProject/Content/Prototank2.uasset'
+[2019.04.20-04.22.27:029][630]LogSavePackage: Display: Finished SavePackage C:/Users/Coord 26/Documents/Unreal Projects/MyProject/Content/Prototank2.uasset
+[2019.04.20-04.22.30:758][ 68]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.20-04.22.30:767][ 68]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.04.20-04.22.30:770][ 68]LogPlayLevel: [PlayLevel] Compiling Prototank2 before play...
+[2019.04.20-04.22.30:894][ 68]LogPlayLevel: PlayLevel: Blueprint regeneration took 126 ms (1 blueprints)
+[2019.04.20-04.22.30:894][ 68]PIE: New page: PIE session: Untitled_1 (20 Apr 2019 06:22:30)
+[2019.04.20-04.22.30:894][ 68]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2019.04.20-04.22.30:898][ 68]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003214s)
+[2019.04.20-04.22.30:898][ 68]LogAIModule: Creating AISystem for world Untitled_1
+[2019.04.20-04.22.30:898][ 68]LogPlayLevel: PIE: World Init took: (0.000445s)
+[2019.04.20-04.22.30:898][ 68]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.003833s)
+[2019.04.20-04.22.30:924][ 68]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.20-04.22.30:965][ 68]LogInit: FAudioDevice initialized.
+[2019.04.20-04.22.30:997][ 68]LogLoad: Game class is 'ProtoGamemode_C'
+[2019.04.20-04.22.30:997][ 68]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2019.04.20-05.22.30
+[2019.04.20-04.22.30:998][ 68]LogWorld: Bringing up level for play took: 0.000404
+[2019.04.20-04.22.30:999][ 68]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 -0.116
+[2019.04.20-04.24.19:083][881]LogPropertyNode: Warning: Clamp Min (3) >= Clamp Max (3) for Ranged Numeric property /Game/Prototank2.Prototank2_C:Turnrate
+[2019.04.20-04.24.19:083][881]LogPropertyNode: Warning: UI Min (3) >= UI Max (3) for Ranged Numeric property /Game/Prototank2.Prototank2_C:Turnrate
+[2019.04.20-04.25.49:217][723]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Prototank2" FILE="C:/Users/Coord 26/Documents/Unreal Projects/MyProject/Content/Prototank2.uasset" SILENT=true
+[2019.04.20-04.25.49:254][723]LogSavePackage: Save=31.54ms
+[2019.04.20-04.25.49:254][723]LogSavePackage: Moving 'C:/Users/Coord 26/Documents/Unreal Projects/MyProject/Saved/Prototank2685509904F17F21CCAC412B3FE00831D.tmp' to 'C:/Users/Coord 26/Documents/Unreal Projects/MyProject/Content/Prototank2.uasset'
+[2019.04.20-04.25.49:257][723]LogSavePackage: Display: Finished SavePackage C:/Users/Coord 26/Documents/Unreal Projects/MyProject/Content/Prototank2.uasset
+[2019.04.20-04.25.52:249][ 81]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.20-04.25.52:260][ 81]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.04.20-04.25.52:264][ 81]LogPlayLevel: [PlayLevel] Compiling Prototank2 before play...
+[2019.04.20-04.25.52:456][ 81]LogPlayLevel: PlayLevel: Blueprint regeneration took 196 ms (1 blueprints)
+[2019.04.20-04.25.52:457][ 81]PIE: New page: PIE session: Untitled_1 (20 Apr 2019 06:25:52)
+[2019.04.20-04.25.52:457][ 81]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2019.04.20-04.25.52:460][ 81]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003045s)
+[2019.04.20-04.25.52:460][ 81]LogAIModule: Creating AISystem for world Untitled_1
+[2019.04.20-04.25.52:460][ 81]LogPlayLevel: PIE: World Init took: (0.000482s)
+[2019.04.20-04.25.52:460][ 81]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.003713s)
+[2019.04.20-04.25.52:488][ 81]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.20-04.25.52:530][ 81]LogInit: FAudioDevice initialized.
+[2019.04.20-04.25.52:569][ 81]LogLoad: Game class is 'ProtoGamemode_C'
+[2019.04.20-04.25.52:571][ 81]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2019.04.20-05.25.52
+[2019.04.20-04.25.52:571][ 81]LogWorld: Bringing up level for play took: 0.001141
+[2019.04.20-04.25.52:575][ 81]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 -0.54
+[2019.04.20-04.25.58:248][627]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.20-04.25.58:258][627]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.20-04.25.58:258][627]PIE: New page: PIE session: Untitled_1 (20 Apr 2019 06:25:58)
+[2019.04.20-04.25.58:258][627]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2019.04.20-04.25.58:261][627]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003010s)
+[2019.04.20-04.25.58:262][627]LogAIModule: Creating AISystem for world Untitled_1
+[2019.04.20-04.25.58:262][627]LogPlayLevel: PIE: World Init took: (0.000469s)
+[2019.04.20-04.25.58:262][627]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.003661s)
+[2019.04.20-04.25.58:288][627]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.20-04.25.58:330][627]LogInit: FAudioDevice initialized.
+[2019.04.20-04.25.58:359][627]LogLoad: Game class is 'ProtoGamemode_C'
+[2019.04.20-04.25.58:359][627]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2019.04.20-05.25.58
+[2019.04.20-04.25.58:360][627]LogWorld: Bringing up level for play took: 0.000422
+[2019.04.20-04.25.58:361][627]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 -0.753
+[2019.04.20-04.26.09:877][999]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.04.20-04.26.17:447][810]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.04.20-04.26.17:531][814]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.MyProject
+[2019.04.20-04.26.17:531][814]LogTemp: CWD: G:\UE_4.18\Engine\Binaries\DotNET\IOS
+[2019.04.20-04.26.17:531][814]LogTemp: Initial Dir: G:\UE_4.18
+[2019.04.20-04.26.17:531][814]LogTemp: Env CWD: G:\UE_4.18\Engine\Binaries\DotNET\IOS
+[2019.04.20-04.26.17:531][814]LogTemp: BranchPath = DESKTOP-6R2LPT6/G/UE_4.18/Engine/Binaries --- GameBranchPath = DESKTOP-6R2LPT6/G/UE_4.18/Engine/Binaries
+[2019.04.20-04.26.17:541][815]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\Coord 26\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2019.04.20-04.26.48:363][411]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.20-04.26.48:373][411]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.20-04.26.48:373][411]PIE: New page: PIE session: Untitled_1 (20 Apr 2019 06:26:48)
+[2019.04.20-04.26.48:373][411]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2019.04.20-04.26.48:376][411]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003009s)
+[2019.04.20-04.26.48:376][411]LogAIModule: Creating AISystem for world Untitled_1
+[2019.04.20-04.26.48:376][411]LogPlayLevel: PIE: World Init took: (0.000435s)
+[2019.04.20-04.26.48:377][411]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.003640s)
+[2019.04.20-04.26.48:402][411]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.20-04.26.48:444][411]LogInit: FAudioDevice initialized.
+[2019.04.20-04.26.48:478][411]LogLoad: Game class is 'ProtoGamemode_C'
+[2019.04.20-04.26.48:479][411]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2019.04.20-05.26.48
+[2019.04.20-04.26.48:479][411]LogWorld: Bringing up level for play took: 0.000430
+[2019.04.20-04.26.48:480][411]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 -0.635
+[2019.04.20-04.27.02:075][767]LogPropertyNode: Warning: Clamp Min (3) >= Clamp Max (3) for Ranged Numeric property /Game/Prototank2.Prototank2_C:Turnrate
+[2019.04.20-04.27.02:075][767]LogPropertyNode: Warning: UI Min (3) >= UI Max (3) for Ranged Numeric property /Game/Prototank2.Prototank2_C:Turnrate
+[2019.04.20-04.27.02:076][767]LogPropertyNode: Warning: Clamp Min (1) >= Clamp Max (1) for Ranged Numeric property /Game/Prototank2.Prototank2_C:TurretTurnRate
+[2019.04.20-04.27.02:076][767]LogPropertyNode: Warning: UI Min (1) >= UI Max (1) for Ranged Numeric property /Game/Prototank2.Prototank2_C:TurretTurnRate
+[2019.04.20-04.27.14:365][ 70]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.04.20-04.27.14:436][ 73]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.MyProject
+[2019.04.20-04.27.14:436][ 73]LogTemp: CWD: G:\UE_4.18\Engine\Binaries\DotNET\IOS
+[2019.04.20-04.27.14:436][ 73]LogTemp: Initial Dir: G:\UE_4.18
+[2019.04.20-04.27.14:436][ 73]LogTemp: Env CWD: G:\UE_4.18\Engine\Binaries\DotNET\IOS
+[2019.04.20-04.27.14:436][ 73]LogTemp: BranchPath = DESKTOP-6R2LPT6/G/UE_4.18/Engine/Binaries --- GameBranchPath = DESKTOP-6R2LPT6/G/UE_4.18/Engine/Binaries
+[2019.04.20-04.27.14:451][ 75]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\Coord 26\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2019.04.20-04.28.46:121][825]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.04.20-04.28.46:218][830]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.MyProject
+[2019.04.20-04.28.46:218][830]LogTemp: CWD: G:\UE_4.18\Engine\Binaries\DotNET\IOS
+[2019.04.20-04.28.46:218][830]LogTemp: Initial Dir: G:\UE_4.18
+[2019.04.20-04.28.46:218][830]LogTemp: Env CWD: G:\UE_4.18\Engine\Binaries\DotNET\IOS
+[2019.04.20-04.28.46:218][830]LogTemp: BranchPath = DESKTOP-6R2LPT6/G/UE_4.18/Engine/Binaries --- GameBranchPath = DESKTOP-6R2LPT6/G/UE_4.18/Engine/Binaries
+[2019.04.20-04.28.46:226][831]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\Coord 26\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2019.04.20-04.29.12:303][930]LogPropertyNode: Warning: Clamp Min (3) >= Clamp Max (3) for Ranged Numeric property /Game/Prototank2.Prototank2_C:Turnrate
+[2019.04.20-04.29.12:303][930]LogPropertyNode: Warning: UI Min (3) >= UI Max (3) for Ranged Numeric property /Game/Prototank2.Prototank2_C:Turnrate
+[2019.04.20-04.29.12:303][930]LogPropertyNode: Warning: Clamp Min (1) >= Clamp Max (1) for Ranged Numeric property /Game/Prototank2.Prototank2_C:TurretTurnRate
+[2019.04.20-04.29.12:304][930]LogPropertyNode: Warning: UI Min (1) >= UI Max (1) for Ranged Numeric property /Game/Prototank2.Prototank2_C:TurretTurnRate
+[2019.04.20-04.29.29:951][ 28]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Prototank2" FILE="C:/Users/Coord 26/Documents/Unreal Projects/MyProject/Content/Prototank2.uasset" SILENT=true
+[2019.04.20-04.29.29:992][ 28]LogSavePackage: Save=32.19ms
+[2019.04.20-04.29.29:992][ 28]LogSavePackage: Moving 'C:/Users/Coord 26/Documents/Unreal Projects/MyProject/Saved/Prototank2D8119E194C522BDF6AC4759D9367C9BC.tmp' to 'C:/Users/Coord 26/Documents/Unreal Projects/MyProject/Content/Prototank2.uasset'
+[2019.04.20-04.29.29:994][ 28]LogSavePackage: Display: Finished SavePackage C:/Users/Coord 26/Documents/Unreal Projects/MyProject/Content/Prototank2.uasset
+[2019.04.20-04.29.30:590][ 99]BlueprintLog: New page: Compile Prototank2
+[2019.04.20-04.29.34:249][485]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.20-04.29.34:259][485]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.20-04.29.34:259][485]PIE: New page: PIE session: Untitled_1 (20 Apr 2019 06:29:34)
+[2019.04.20-04.29.34:259][485]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2019.04.20-04.29.34:262][485]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003051s)
+[2019.04.20-04.29.34:262][485]LogAIModule: Creating AISystem for world Untitled_1
+[2019.04.20-04.29.34:263][485]LogPlayLevel: PIE: World Init took: (0.000471s)
+[2019.04.20-04.29.34:263][485]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.003702s)
+[2019.04.20-04.29.34:289][485]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.20-04.29.34:332][485]LogInit: FAudioDevice initialized.
+[2019.04.20-04.29.34:365][485]LogLoad: Game class is 'ProtoGamemode_C'
+[2019.04.20-04.29.34:365][485]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2019.04.20-05.29.34
+[2019.04.20-04.29.34:366][485]LogWorld: Bringing up level for play took: 0.000420
+[2019.04.20-04.29.34:367][485]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 -0.747
+[2019.04.20-04.29.39:060][ 13]LogPropertyNode: Warning: Clamp Min (3) >= Clamp Max (3) for Ranged Numeric property /Game/Prototank2.Prototank2_C:Turnrate
+[2019.04.20-04.29.39:060][ 13]LogPropertyNode: Warning: UI Min (3) >= UI Max (3) for Ranged Numeric property /Game/Prototank2.Prototank2_C:Turnrate
+[2019.04.20-04.29.39:061][ 13]LogPropertyNode: Warning: Clamp Min (1) >= Clamp Max (1) for Ranged Numeric property /Game/Prototank2.Prototank2_C:TurretTurnRate
+[2019.04.20-04.29.39:061][ 13]LogPropertyNode: Warning: UI Min (1) >= UI Max (1) for Ranged Numeric property /Game/Prototank2.Prototank2_C:TurretTurnRate
+[2019.04.20-04.29.54:754][887]LogPropertyNode: Warning: Clamp Min (1) >= Clamp Max (1) for Ranged Numeric property /Game/Prototank2.Prototank2_C:TurretTurnRate
+[2019.04.20-04.29.54:754][887]LogPropertyNode: Warning: UI Min (1) >= UI Max (1) for Ranged Numeric property /Game/Prototank2.Prototank2_C:TurretTurnRate
+[2019.04.20-04.30.27:752][105]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.024
+[2019.04.20-04.30.27:753][105]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Prototank2] ([1] browsable assets)...
+[2019.04.20-04.30.27:766][105]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Prototank2.Prototank2]
+[2019.04.20-04.30.27:766][105]OBJ SavePackage: Finished generating thumbnails for package [/Game/Prototank2]
+[2019.04.20-04.30.27:766][105]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Prototank2" FILE="C:/Users/Coord 26/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/Prototank2_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2019.04.20-04.30.27:805][105]LogSavePackage: Save=32.94ms
+[2019.04.20-04.30.27:805][105]LogSavePackage: Moving 'C:/Users/Coord 26/Documents/Unreal Projects/MyProject/Saved/Prototank2_Auto290B42C234C3B7D9EBDE5288188460ABB.tmp' to 'C:/Users/Coord 26/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/Prototank2_Auto2.uasset'
+[2019.04.20-04.30.27:807][105]LogSavePackage: Display: Finished SavePackage C:/Users/Coord 26/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/Prototank2_Auto2.uasset
+[2019.04.20-04.30.27:807][105]LogFileHelpers: Auto-saving content packages took 0.055
+[2019.04.20-04.36.44:057][235]LogRenderer: Reallocating scene render targets to support 1616x820 Format 10 NumSamples 1 (Frame:1).
+[2019.04.20-04.36.57:745][808]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Prototank2" FILE="C:/Users/Coord 26/Documents/Unreal Projects/MyProject/Content/Prototank2.uasset" SILENT=true
+[2019.04.20-04.36.57:787][808]LogSavePackage: Save=32.41ms
+[2019.04.20-04.36.57:787][808]LogSavePackage: Moving 'C:/Users/Coord 26/Documents/Unreal Projects/MyProject/Saved/Prototank21526914F4EEE04BA6D6EE3B5A07A7313.tmp' to 'C:/Users/Coord 26/Documents/Unreal Projects/MyProject/Content/Prototank2.uasset'
+[2019.04.20-04.36.57:790][808]LogSavePackage: Display: Finished SavePackage C:/Users/Coord 26/Documents/Unreal Projects/MyProject/Content/Prototank2.uasset
+[2019.04.20-04.37.00:398][112]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.20-04.37.00:409][112]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.04.20-04.37.00:412][112]LogPlayLevel: [PlayLevel] Compiling Prototank2 before play...
+[2019.04.20-04.37.00:539][112]LogPlayLevel: PlayLevel: Blueprint regeneration took 129 ms (1 blueprints)
+[2019.04.20-04.37.00:539][112]PIE: New page: PIE session: Untitled_1 (20 Apr 2019 06:37:00)
+[2019.04.20-04.37.00:539][112]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2019.04.20-04.37.00:542][112]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003158s)
+[2019.04.20-04.37.00:543][112]LogAIModule: Creating AISystem for world Untitled_1
+[2019.04.20-04.37.00:543][112]LogPlayLevel: PIE: World Init took: (0.000465s)
+[2019.04.20-04.37.00:543][112]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.003802s)
+[2019.04.20-04.37.00:568][112]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.20-04.37.00:610][112]LogInit: FAudioDevice initialized.
+[2019.04.20-04.37.00:642][112]LogLoad: Game class is 'ProtoGamemode_C'
+[2019.04.20-04.37.00:643][112]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2019.04.20-05.37.00
+[2019.04.20-04.37.00:643][112]LogWorld: Bringing up level for play took: 0.000465
+[2019.04.20-04.37.00:644][112]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 -0.47
+[2019.04.20-04.37.17:158][ 58]LogPropertyNode: Warning: Clamp Min (3) >= Clamp Max (3) for Ranged Numeric property /Game/Prototank2.Prototank2_C:Turnrate
+[2019.04.20-04.37.17:158][ 58]LogPropertyNode: Warning: UI Min (3) >= UI Max (3) for Ranged Numeric property /Game/Prototank2.Prototank2_C:Turnrate
+[2019.04.20-04.37.17:158][ 58]LogPropertyNode: Warning: Clamp Min (1) >= Clamp Max (1) for Ranged Numeric property /Game/Prototank2.Prototank2_C:TurretTurnRate
+[2019.04.20-04.37.17:158][ 58]LogPropertyNode: Warning: UI Min (1) >= UI Max (1) for Ranged Numeric property /Game/Prototank2.Prototank2_C:TurretTurnRate
+[2019.04.20-04.37.24:162][849]LogPropertyNode: Warning: Clamp Min (1) >= Clamp Max (1) for Ranged Numeric property /Game/Prototank2.Prototank2_C:TurretTurnRate
+[2019.04.20-04.37.24:162][849]LogPropertyNode: Warning: UI Min (1) >= UI Max (1) for Ranged Numeric property /Game/Prototank2.Prototank2_C:TurretTurnRate
+[2019.04.20-04.38.01:111][270]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.20-04.38.01:122][270]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.20-04.38.01:122][270]PIE: New page: PIE session: Untitled_1 (20 Apr 2019 06:38:01)
+[2019.04.20-04.38.01:122][270]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2019.04.20-04.38.01:125][270]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003232s)
+[2019.04.20-04.38.01:126][270]LogAIModule: Creating AISystem for world Untitled_1
+[2019.04.20-04.38.01:126][270]LogPlayLevel: PIE: World Init took: (0.000625s)
+[2019.04.20-04.38.01:126][270]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.004074s)
+[2019.04.20-04.38.01:153][270]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.20-04.38.01:195][270]LogInit: FAudioDevice initialized.
+[2019.04.20-04.38.01:228][270]LogLoad: Game class is 'ProtoGamemode_C'
+[2019.04.20-04.38.01:228][270]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2019.04.20-05.38.01
+[2019.04.20-04.38.01:229][270]LogWorld: Bringing up level for play took: 0.000415
+[2019.04.20-04.38.01:230][270]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 0.115
+[2019.04.20-04.38.18:480][286]LogPropertyNode: Warning: Clamp Min (3) >= Clamp Max (3) for Ranged Numeric property /Game/Prototank2.Prototank2_C:Turnrate
+[2019.04.20-04.38.18:480][286]LogPropertyNode: Warning: UI Min (3) >= UI Max (3) for Ranged Numeric property /Game/Prototank2.Prototank2_C:Turnrate
+[2019.04.20-04.38.18:480][286]LogPropertyNode: Warning: Clamp Min (1) >= Clamp Max (1) for Ranged Numeric property /Game/Prototank2.Prototank2_C:TurretTurnRate
+[2019.04.20-04.38.18:480][286]LogPropertyNode: Warning: UI Min (1) >= UI Max (1) for Ranged Numeric property /Game/Prototank2.Prototank2_C:TurretTurnRate
+[2019.04.20-04.40.54:523][587]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Prototank2" FILE="C:/Users/Coord 26/Documents/Unreal Projects/MyProject/Content/Prototank2.uasset" SILENT=true
+[2019.04.20-04.40.54:563][587]LogSavePackage: Save=33.63ms
+[2019.04.20-04.40.54:563][587]LogSavePackage: Moving 'C:/Users/Coord 26/Documents/Unreal Projects/MyProject/Saved/Prototank2792848164602A253CA094DA1D8F7B7CF.tmp' to 'C:/Users/Coord 26/Documents/Unreal Projects/MyProject/Content/Prototank2.uasset'
+[2019.04.20-04.40.54:565][587]LogSavePackage: Display: Finished SavePackage C:/Users/Coord 26/Documents/Unreal Projects/MyProject/Content/Prototank2.uasset
+[2019.04.20-04.40.57:114][885]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.20-04.40.57:124][885]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.04.20-04.40.57:127][885]LogPlayLevel: [PlayLevel] Compiling Prototank2 before play...
+[2019.04.20-04.40.57:255][885]LogPlayLevel: PlayLevel: Blueprint regeneration took 131 ms (1 blueprints)
+[2019.04.20-04.40.57:256][885]PIE: New page: PIE session: Untitled_1 (20 Apr 2019 06:40:57)
+[2019.04.20-04.40.57:256][885]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2019.04.20-04.40.57:259][885]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003264s)
+[2019.04.20-04.40.57:259][885]LogAIModule: Creating AISystem for world Untitled_1
+[2019.04.20-04.40.57:260][885]LogPlayLevel: PIE: World Init took: (0.000451s)
+[2019.04.20-04.40.57:260][885]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.003901s)
+[2019.04.20-04.40.57:284][885]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.20-04.40.57:325][885]LogInit: FAudioDevice initialized.
+[2019.04.20-04.40.57:355][885]LogLoad: Game class is 'ProtoGamemode_C'
+[2019.04.20-04.40.57:355][885]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2019.04.20-05.40.57
+[2019.04.20-04.40.57:356][885]LogWorld: Bringing up level for play took: 0.000423
+[2019.04.20-04.40.57:357][885]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 0.242
+[2019.04.20-04.41.02:398][487]LogOutputDevice: Warning: 
+
+Script Stack:
+Prototank2_C.ExecuteUbergraph_Prototank2
+Prototank2_C.InpAxisEvt_rotate_left_right_K2Node_InputAxisEvent_4
+
+[2019.04.20-04.41.03:072][487]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.673 s
+[2019.04.20-04.41.03:072][487]LogOutputDevice: Error: === Handled ensure: ===
+[2019.04.20-04.41.03:072][487]LogOutputDevice: Error: 
+[2019.04.20-04.41.03:072][487]LogOutputDevice: Error: Ensure condition failed: OutTM.isValid() [File:D:\Build\++UE4+Release-4.18+Compile\Sync\Engine\Source\Runtime\Engine\Private\PhysicsEngine\BodySetup.cpp] [Line: 851]
+[2019.04.20-04.41.03:072][487]LogOutputDevice: Error: 
+[2019.04.20-04.41.03:072][487]LogOutputDevice: Error: Stack: 
+[2019.04.20-04.41.03:072][487]LogOutputDevice: Error: [Callstack] 0x000000001F8A2786 UE4Editor-Core.dll!UnknownFunction []
+[2019.04.20-04.41.03:072][487]LogOutputDevice: Error: [Callstack] 0x000000001F64123A UE4Editor-Core.dll!UnknownFunction []
+[2019.04.20-04.41.03:072][487]LogOutputDevice: Error: [Callstack] 0x000000001F65B906 UE4Editor-Core.dll!UnknownFunction []
+[2019.04.20-04.41.03:072][487]LogOutputDevice: Error: [Callstack] 0x00000000FA808A58 UE4Editor-Engine.dll!UnknownFunction []
+[2019.04.20-04.41.03:072][487]LogOutputDevice: Error: [Callstack] 0x00000000FA807457 UE4Editor-Engine.dll!UnknownFunction []
+[2019.04.20-04.41.03:072][487]LogOutputDevice: Error: [Callstack] 0x00000000FA815ED0 UE4Editor-Engine.dll!UnknownFunction []
+[2019.04.20-04.41.03:073][487]LogOutputDevice: Error: [Callstack] 0x00000000FA7C06F5 UE4Editor-Engine.dll!UnknownFunction []
+[2019.04.20-04.41.03:073][487]LogOutputDevice: Error: [Callstack] 0x00000000FA7D4164 UE4Editor-Engine.dll!UnknownFunction []
+[2019.04.20-04.41.03:073][487]LogOutputDevice: Error: [Callstack] 0x00000000FA802306 UE4Editor-Engine.dll!UnknownFunction []
+[2019.04.20-04.41.03:073][487]LogOutputDevice: Error: [Callstack] 0x00000000FA7F2963 UE4Editor-Engine.dll!UnknownFunction []
+[2019.04.20-04.41.03:073][487]LogOutputDevice: Error: [Callstack] 0x00000000FA063343 UE4Editor-Engine.dll!UnknownFunction []
+[2019.04.20-04.41.03:073][487]LogOutputDevice: Error: [Callstack] 0x00000000FA05634B UE4Editor-Engine.dll!UnknownFunction []
+[2019.04.20-04.41.03:073][487]LogOutputDevice: Error: [Callstack] 0x00000000FA0B8369 UE4Editor-Engine.dll!UnknownFunction []
+[2019.04.20-04.41.03:073][487]LogOutputDevice: Error: [Callstack] 0x00000000FA0D12C6 UE4Editor-Engine.dll!UnknownFunction []
+[2019.04.20-04.41.03:073][487]LogOutputDevice: Error: [Callstack] 0x00000000FA0AF828 UE4Editor-Engine.dll!UnknownFunction []
+[2019.04.20-04.41.03:073][487]LogOutputDevice: Error: [Callstack] 0x00000000FA053AA1 UE4Editor-Engine.dll!UnknownFunction []
+[2019.04.20-04.41.03:073][487]LogOutputDevice: Error: [Callstack] 0x00000000FA0C4EBC UE4Editor-Engine.dll!UnknownFunction []
+[2019.04.20-04.41.03:073][487]LogOutputDevice: Error: [Callstack] 0x00000000FA0891CC UE4Editor-Engine.dll!UnknownFunction []
+[2019.04.20-04.41.03:073][487]LogOutputDevice: Error: [Callstack] 0x00000000FA0B05BA UE4Editor-Engine.dll!UnknownFunction []
+[2019.04.20-04.41.03:073][487]LogOutputDevice: Error: [Callstack] 0x00000000F9AEFDCC UE4Editor-Engine.dll!UnknownFunction []
+[2019.04.20-04.41.03:073][487]LogOutputDevice: Error: [Callstack] 0x000000001EF85264 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.04.20-04.41.03:074][487]LogOutputDevice: Error: [Callstack] 0x000000001F149B74 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.04.20-04.41.03:074][487]LogOutputDevice: Error: [Callstack] 0x000000001F15FA41 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.04.20-04.41.03:074][487]LogOutputDevice: Error: [Callstack] 0x000000001F161B72 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.04.20-04.41.03:074][487]LogOutputDevice: Error: [Callstack] 0x000000001F14A57E UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.04.20-04.41.03:074][487]LogOutputDevice: Error: [Callstack] 0x000000001F161B72 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.04.20-04.41.03:074][487]LogOutputDevice: Error: [Callstack] 0x000000001EF85264 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.04.20-04.41.03:074][487]LogOutputDevice: Error: [Callstack] 0x000000001F160F66 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.04.20-04.41.03:074][487]LogOutputDevice: Error: [Callstack] 0x00000000F9BAE64B UE4Editor-Engine.dll!UnknownFunction []
+[2019.04.20-04.41.03:074][487]LogOutputDevice: Error: [Callstack] 0x00000000FACFF29A UE4Editor-Engine.dll!UnknownFunction []
+[2019.04.20-04.41.03:074][487]LogOutputDevice: Error: [Callstack] 0x00000000FAD3139A UE4Editor-Engine.dll!UnknownFunction []
+[2019.04.20-04.41.03:074][487]LogOutputDevice: Error: [Callstack] 0x00000000FA8A327C UE4Editor-Engine.dll!UnknownFunction []
+[2019.04.20-04.41.03:074][487]LogOutputDevice: Error: [Callstack] 0x00000000FA8B6F66 UE4Editor-Engine.dll!UnknownFunction []
+[2019.04.20-04.41.03:074][487]LogOutputDevice: Error: [Callstack] 0x00000000FA8A0DDB UE4Editor-Engine.dll!UnknownFunction []
+[2019.04.20-04.41.03:074][487]LogOutputDevice: Error: [Callstack] 0x00000000FA8B613A UE4Editor-Engine.dll!UnknownFunction []
+[2019.04.20-04.41.03:074][487]LogOutputDevice: Error: [Callstack] 0x00000000F9B858B6 UE4Editor-Engine.dll!UnknownFunction []
+[2019.04.20-04.41.03:075][487]LogOutputDevice: Error: [Callstack] 0x00000000FABD9BDB UE4Editor-Engine.dll!UnknownFunction []
+[2019.04.20-04.41.03:075][487]LogOutputDevice: Error: [Callstack] 0x00000000FABDDD0B UE4Editor-Engine.dll!UnknownFunction []
+[2019.04.20-04.41.03:075][487]LogOutputDevice: Error: [Callstack] 0x000000001F504845 UE4Editor-Core.dll!UnknownFunction []
+[2019.04.20-04.41.03:075][487]LogOutputDevice: Error: [Callstack] 0x000000001F504E2A UE4Editor-Core.dll!UnknownFunction []
+[2019.04.20-04.41.03:075][487]LogOutputDevice: Error: [Callstack] 0x000000001F52589E UE4Editor-Core.dll!UnknownFunction []
+[2019.04.20-04.41.03:075][487]LogOutputDevice: Error: [Callstack] 0x00000000FABF7E11 UE4Editor-Engine.dll!UnknownFunction []
+[2019.04.20-04.41.03:075][487]LogOutputDevice: Error: [Callstack] 0x00000000FABFC632 UE4Editor-Engine.dll!UnknownFunction []
+[2019.04.20-04.41.03:075][487]LogOutputDevice: Error: [Callstack] 0x00000000FA4ED104 UE4Editor-Engine.dll!UnknownFunction []
+[2019.04.20-04.41.03:075][487]LogOutputDevice: Error: [Callstack] 0x00000000FA4F6448 UE4Editor-Engine.dll!UnknownFunction []
+[2019.04.20-04.41.03:075][487]LogOutputDevice: Error: [Callstack] 0x00000000F86D6BA6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.04.20-04.41.03:075][487]LogOutputDevice: Error: [Callstack] 0x00000000F8F84AC6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.04.20-04.41.03:075][487]LogOutputDevice: Error: [Callstack] 0x00000000D6A75A26 UE4Editor.exe!UnknownFunction []
+[2019.04.20-04.41.03:075][487]LogOutputDevice: Error: [Callstack] 0x00000000D6A85430 UE4Editor.exe!UnknownFunction []
+[2019.04.20-04.41.03:075][487]LogOutputDevice: Error: [Callstack] 0x00000000D6A854AA UE4Editor.exe!UnknownFunction []
+[2019.04.20-04.41.03:076][487]LogOutputDevice: Error: [Callstack] 0x00000000D6A92379 UE4Editor.exe!UnknownFunction []
+[2019.04.20-04.41.03:076][487]LogOutputDevice: Error: [Callstack] 0x00000000D6A93D57 UE4Editor.exe!UnknownFunction []
+[2019.04.20-04.41.03:076][487]LogOutputDevice: Error: [Callstack] 0x0000000059B97974 KERNEL32.DLL!UnknownFunction []
+[2019.04.20-04.41.03:076][487]LogOutputDevice: Error: [Callstack] 0x000000005C6AA271 ntdll.dll!UnknownFunction []
+[2019.04.20-04.41.03:076][487]LogOutputDevice: Error: 
+[2019.04.20-04.41.03:080][487]LogStats:                SubmitErrorReport -  0.000 s
